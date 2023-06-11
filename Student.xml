@@ -1,0 +1,30 @@
+<student>
+  <name>Andrii</name>
+  <surname>Kovsh</surname>
+  <age>27</age>
+  <gender>male</gender>
+  <group>
+    <gr_name>DS-23</gr_name>
+    <faculty>Faculty of Computer Science</faculty>
+  </group>
+  <subjects>
+    <subject>Mathematics</subject>
+    <subject>Physics</subject>
+    <subject>Programming</subject>
+  </subjects>
+  <grades>
+    <Mathematics>90</Mathematics>
+    <Physics>85</Physics>
+    <Programming>95</Programming>
+  </grades>
+  <address>
+    <street>Shevchenka</street>
+    <building>10</building>
+    <apartment>5</apartment>
+    <city>Kyiv</city>
+  </address>
+  <enrolled>true</enrolled>
+    <scholarship>false</scholarship>
+  <registration_date>2023-06-01</registration_date>
+  <verified/>
+</student>

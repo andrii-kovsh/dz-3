@@ -1,0 +1,27 @@
+{
+	"name": "Andrii",
+	"surname": "Kovsh",
+	"age": 27,
+	"gender": "male",
+	"group": {
+		"gr_name": "DS-23",
+		"faculty": "Faculty of Computer Science",
+		"active": true
+	},
+	"subjects": ["Mathematics", "Physics", "Programming"],
+	"grades": {
+		"Mathematics": 90,
+		"Physics": 85,
+		"Programming": 95
+	},
+	"address": {
+		"street": "Shevchenka",
+		"building": 10,
+		"apartment": 5,
+		"city": "Kyiv"
+	},
+	"enrolled": true,
+	"scholarship": false,
+	"registration_date": "2023-06-01",
+	"verified": null
+}
